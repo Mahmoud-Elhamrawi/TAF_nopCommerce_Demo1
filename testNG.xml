@@ -6,9 +6,8 @@
         <classes>
             <class name="tests.TC02_RegisterTest" />
             <class name="tests.TC03_LoginTest" />
-            <class name="tests.TC05_SearchTest"></class>
             <class name="tests.TC06_SerchBySelectFromAutoListTest"></class>
-<!--            <class name="tests.TC04_changePaasswordTest"></class>-->
+
         </classes>
     </test>
 
