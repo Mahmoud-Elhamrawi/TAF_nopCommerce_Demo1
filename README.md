@@ -1,8 +1,10 @@
 # TAF_nopCommerce_Demo1
 <h4>sekenium farmwork project using: java,maven, TestNG , Pom </h4>
-<h1>Tech</h1> :
+
+<h1>Tech</h1> 
 - java
 - maven
+
   <h1>cover function </h1>
   - register
   - login
