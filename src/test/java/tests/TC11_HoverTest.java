@@ -1,0 +1,27 @@
+package tests;
+
+import org.testng.annotations.Test;
+import pages.P02_homePage;
+import pages.P11_HoverElePage;
+
+public class TC11_HoverTest extends TC01_PageBaseTest{
+
+ P11_HoverElePage hoverActions;
+
+    @Test
+    public void moveToEle()
+    {
+
+        hoverActions = new P11_HoverElePage(driver);
+        hoverActions.hoverActions();
+
+
+    }
+
+
+
+
+
+
+
+}
