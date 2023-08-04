@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a593500-1ea2-4f72-8ba8-a3252e915717" name="Changes" comment="" />
+    <list default="true" id="2a593500-1ea2-4f72-8ba8-a3252e915717" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TC11_HoverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TC11_HoverTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +16,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2TMitEuOPjz6o7kfmHR3jcsUtK0" />
   <component name="ProjectViewState">

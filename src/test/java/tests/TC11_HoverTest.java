@@ -1,7 +1,5 @@
 package tests;
 
-import org.testng.annotations.Test;
-import pages.P02_homePage;
 import pages.P11_HoverElePage;
 
 public class TC11_HoverTest extends TC01_PageBaseTest{
